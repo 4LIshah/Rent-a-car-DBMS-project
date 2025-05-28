@@ -1,3 +1,5 @@
-*.php linguist-detectable=false
-
+*.php linguist-language=PHP
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
 *.sql linguist-language=MySQL
