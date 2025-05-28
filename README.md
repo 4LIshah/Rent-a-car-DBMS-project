@@ -135,6 +135,3 @@ This project is for **educational use only** and is not intended for production 
 
 ---
 
-## 🙌 Acknowledgment
-
-Developed as a semester project by students of **Bahria University – BSAI 2A**.
