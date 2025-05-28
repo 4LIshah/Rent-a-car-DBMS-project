@@ -1,3 +1,2 @@
+*.php linguist-detectable=false
 *.sql linguist-detectable=true
-*.php linguist-detectable=true
-*.css linguist-detectable=false
